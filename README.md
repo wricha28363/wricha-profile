@@ -2,7 +2,7 @@
 
 ## Senior Data Engineer | Azure | Databricks | PySpark | Snowflake | Data Engineering
 
-Data Engineer with 8+ years of experience designing and building scalable data platforms, ETL/ELT pipelines, and analytics solutions across Healthcare, Retail, Finance, and Enterprise domains.
+Data Engineer with 7+ years of experience designing and building scalable data platforms, ETL/ELT pipelines, and analytics solutions across Healthcare, Retail, Finance, and Enterprise domains.
 
 I specialize in developing cloud-native data solutions using Azure Data Factory, Databricks, PySpark, Snowflake, SQL, and Python to transform complex datasets into business insights.
 
@@ -10,7 +10,7 @@ I specialize in developing cloud-native data solutions using Azure Data Factory,
 
 ## 🚀 About Me
 
-- 🔹 8+ years of Data Engineering experience
+- 🔹 7+ years of Data Engineering experience
 - 🔹 Healthcare Analytics & Patient Data Processing
 - 🔹 Azure Data Factory (ADF)
 - 🔹 Azure Databricks
@@ -68,7 +68,7 @@ I specialize in developing cloud-native data solutions using Azure Data Factory,
 - Integrated patient encounters and clinical records into unified healthcare platforms.
 - Designed healthcare UDM, Fact, and Analytical data models.
 - Improved ETL performance and reliability through pipeline optimization.
-- Worked with Snowflake, Python, SQL, and Healthcare Data Standards.
+- Worked with Snowflake, Python,pyspark,databricks, SQL, and Healthcare Data Standards.
 
 ### Senior Engineer | Nagarro
 
